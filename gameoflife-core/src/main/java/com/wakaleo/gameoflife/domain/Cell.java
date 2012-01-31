@@ -3,8 +3,6 @@ package com.wakaleo.gameoflife.domain;
 public enum Cell {
     LIVE_CELL("*"), DEAD_CELL(".");
 
-    
-    //fssfddfdfdf
     private String symbol;
 
     private Cell(String symbol) {
